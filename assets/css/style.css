@@ -2,8 +2,9 @@
   box-sizing: border-box;
   padding: 0;
   margin: 0;
+  
 }
-
+/* test for git  */
 body {
   background-color: #d9dcd6;
 }
@@ -16,7 +17,7 @@ p {
   font-size: 16px;
 }
 
-.header {
+header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
@@ -24,16 +25,16 @@ p {
   color: #ffffff;
 }
 
-.header h1 {
+header > h1 {
   display: inline-block;
   font-size: 48px;
 }
 
-.header h1 .seo {
+header h1 .seo {
   color: #d9dcd6;
 }
 
-.header div {
+header nav {
   padding-top: 15px;
   margin-right: 20px;
   float: right;
@@ -41,11 +42,11 @@ p {
   font-size: 20px;
 }
 
-.header div ul {
+header nav ul {
   list-style-type: none;
 }
 
-.header div ul li {
+header nav ul li {
   display: inline-block;
   margin-left: 25px;
 }
@@ -69,7 +70,7 @@ p {
 .content img {
   max-height: 200px;
 }
-
+/* targeting main sections */
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -92,7 +93,10 @@ p {
   background-color: #2589bd;
 }
 
-#benifits {
+/* benifits content styles */
+.benifit-lead,
+.benifit-brand,
+.benifit-cost {
   margin-bottom: 32px;
   color: #ffffff;
 }
