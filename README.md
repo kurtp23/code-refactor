@@ -4,6 +4,6 @@ added semantic html elements
 consolidated css
 added comments when needed
 ----
-![Screen shot of website](C:\Users\kurt_\code\homework\kpclass1homework\assets\images\screencapture-file-C-Users-kurt-code-homework-kpclass1homework-index-html-2020-11-07-17_10_34.png)
+[![Screenshot-2020-11-07-09-33-31.png](https://i.postimg.cc/qRh049sV/Screenshot-2020-11-07-09-33-31.png)](https://postimg.cc/ygH2Tppv))
 ----
  link for live website https://kurtp23.github.io/code-refactor/
